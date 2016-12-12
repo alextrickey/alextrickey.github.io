@@ -544,15 +544,22 @@ body {
   background: linear-gradient(#2a2a29, #1c1c1c);
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2 {
   color: #e8e8e8;
-  margin: 0 0 10px;
+  margin: 5 0 10px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
 }
 
+h3, h4, h5, h6 {
+  color: #e8e8e8;
+  margin: 10px 0 0px;
+  font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+}
+
 p, ul, ol, table, pre, dl {
-  margin: 0 0 20px;
+  margin: 0 0 8px;
 }
 
 h1, h2, h3 {
@@ -575,7 +582,7 @@ h3 {
   font-size: 18px;
   line-height: 24px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-  font-weight: normal;
+  font-weight: bold;
   color: #b6b6b6;
 }
 
