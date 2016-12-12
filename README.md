@@ -9,7 +9,7 @@ While completing her PhD in Quantitative Psychology, Alex became an expert in St
 ## Data, Statistics and Machine Learning Experience
 
 ### Consultant, OnPrem Solution Partners, LLC, Los Angeles CA
-**Sept 2015 - Present**
+Sept 2015 - Present
 
 #### WB Technology Solutions, Data Analysis and Integration Support
 **Aug 2016 - Nov 2016**
@@ -28,7 +28,7 @@ While completing her PhD in Quantitative Psychology, Alex became an expert in St
 * Performed data modeling and wrote reports for an interim reporting system
 * Tools and Tech: Python, CAErwin, DB2, Teradata, R, Batch Scripts
 
-### Graduate Student and Researcher, University of California, Los Angeles, CA
+### Graduate Student and Researcher, UCLA, Los Angeles CA
 **June 2009 - March 2015**
 
 #### Completed the Degree of Doctor of Philosophy in Psychology
@@ -50,29 +50,29 @@ While completing her PhD in Quantitative Psychology, Alex became an expert in St
 * Results identified the best performing algorithms and circumstances in which the constrained models might be preferred over the usual unconstrained models
 * Tools and Tech: Matlab
 
-#### Cognitive Neuroscience Research Assistant, Clarkson University, Potsdam, NY
+#### Cognitive Neuroscience Research Assistant, Clarkson University, Potsdam NY
 **Aug 2008 - May 2009**
 * Used neural networks to model event-related EEG data to study neurological processing of tactile stimuli
 * Tools and Tech: Matlab
 
 ## Teaching Experience
 
-### Academic Instructor, University of California, Los Angeles, CA 
+### Academic Instructor, UCLA, Los Angeles CA
 **June 2010 – August 2015**
 * Roles included Lecturer, Teaching Fellow, Teaching Associate, and Teaching Assistant
 * Class/section sizes varied from 18 to 250 students depending on the course
-* Responsibilities
+* **Responsibilities**
 	* Content construction (e.g. designing lectures, labs, exams and assignments)
 	* Presentation and instruction (e.g. leading lectures, labs, and discussion sections, and holding office hours)
 	* Course administration (e.g. coordinating teaching assistants, grading assignments, maintaining grade books, assigning course grades, etc.)
-* Selected Courses
+* **Selected Courses**
 	* Introduction to Statistics
 	* Psychological Statistics
 	* Research Methods in Psychology
 	* Advanced Psychological Statistics A, B, and C 
 	* Behavioral Neuroscience
 
-### Adjunct Professor, Chapman University, Orange, CA
+### Adjunct Professor, Chapman University, Orange CA
 **Sept 2013 - May 2014**
 * Taught "Critical Thinking" (i.e. effective evaluation of arguments and evidence leading to scientifically informed decisions) 
 * Provided constructive feedback as students learned to express their reasoning orally and in writing
@@ -83,10 +83,11 @@ While completing her PhD in Quantitative Psychology, Alex became an expert in St
 * Had a lot of fun
 
 ## Education
-### PhD, Quantitative Psychology, University of California, Los Angeles
+### PhD, Quantitative Psychology, UCLA, Los Angeles CA
 * Psychology Department Fellowship, 2014
 * Graduate Summer Research Mentorship Award, 2011 
 * First-Year University Fellowship, 2009
+
 ### Dual BS, Mathematics, Psychology, Clarkson University, Potsdam NY
 * Psi Chi, International Honor Society in Psychology, 2008 
 * Pi Mu Epsilon, National Mathematics Honor Society, 2008
