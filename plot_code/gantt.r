@@ -5,7 +5,7 @@
 library(ggplot2)
 
 #Import Data
-skill_dates <- read.csv("~/Documents/resumes/dates.csv",
+skill_dates <- read.csv("skill_dates.csv",
                         strip.white = TRUE, 
                         colClasses = c('factor','factor','Date','Date'))
 lapply(skill_dates,class)
