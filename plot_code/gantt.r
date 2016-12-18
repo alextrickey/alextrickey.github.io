@@ -18,7 +18,7 @@ ggplot(skill_dates, aes(colour=skill_type,
                    y=Skill, yend=Skill), 
                size=5) +
   xlab("Date") +
-  ggtitle("Periods of Active Use by Skill (Last 10 Years)") + 
+  ggtitle("Technical Skills: Recency and Duration of Use") + 
   theme(legend.position="none",
         axis.title.y=element_blank(),
         axis.text= element_text(color = "#ECE2CC"),
