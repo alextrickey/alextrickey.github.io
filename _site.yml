@@ -12,8 +12,6 @@ navbar:
     - text: "Education"
       href: education.html
   right:
-    - icon: fa-envelope fa-lg
-      href: contact.html
     - icon: fa-github fa-lg
       href: http://github.com/alextrickey
     - icon: fa-linkedin fa-lg
