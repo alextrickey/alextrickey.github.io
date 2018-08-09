@@ -4,7 +4,6 @@ output: html_document
 ---
 
 ---
-## Teaching Experience
 
 ### Academic Instructor, University of California, Los Angeles, CA 
 **June 2010 – August 2015**
