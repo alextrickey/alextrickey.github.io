@@ -1,6 +1,22 @@
+---
+title: "Skills"
+output: html_document
+---
 
-library(ggplot2)
-library(lubridate)
+---
+### Overview
+* Machine Learning, Prediction, Statistics
+* Data Preparation and Queries
+* Data Visualization
+
+### Stats and Machine Learning
+* Stats: GLM, Random Effects/Multilevel Models, Bayesian Modeling
+* ML: Random Forests, GBMs, Multiarmed Bandits, Thompson Sampling
+
+### Tech and Tools
+```{r skills_plot, echo=FALSE}
+suppressPackageStartupMessages(library(ggplot2))
+suppressPackageStartupMessages(library(lubridate))
 
 #Import Data
 skill_dates <- read.csv("plot_code/skill_dates.csv",
@@ -8,7 +24,6 @@ skill_dates <- read.csv("plot_code/skill_dates.csv",
                         colClasses = c("factor", "factor", "Date", "Date"),
                         comment.char = "#")
 skill_dates[is.na(skill_dates)] <- today()
-lapply(skill_dates, class)
 
 #Plot Based On: http://stackoverflow.com/questions/9862519
 ggplot(skill_dates, aes(colour = skill_type,
@@ -16,10 +31,11 @@ ggplot(skill_dates, aes(colour = skill_type,
   geom_segment(aes(x = Start, xend = End,
                    y = Skill, yend = Skill),
                size = 5) +
-  xlab("Date") +
+  xlab("Dates Used") +
   ggtitle("Technical Skills: Recency and Duration of Use") +
   theme(legend.position = "none",
         axis.title.y = element_blank(),
+        plot.title = element_blank()
   #      axis.text = element_text(color = "#ECE2CC"),
   #      text = element_text(size = 15, color = "#ECE2CC"),
   #      strip.background = element_rect(fill = "#A7A7A7"), # hex: #A7A7A7
@@ -29,3 +45,4 @@ ggplot(skill_dates, aes(colour = skill_type,
   facet_grid(skill_type ~ .,
              scales = "free",
              space = "free")
+```
