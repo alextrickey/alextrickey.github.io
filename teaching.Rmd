@@ -1,0 +1,37 @@
+---
+title: "Teaching"
+output: html_document
+---
+
+---
+## Teaching Experience
+
+### Academic Instructor, University of California, Los Angeles, CA 
+**June 2010 – August 2015**
+
+* Roles included Lecturer, Teaching Fellow, Teaching Associate, and Teaching Assistant
+* Class/section sizes varied from 18 to 250 students depending on the course
+* Responsibilities
+	* Content construction (e.g. designing lectures, labs, exams and assignments)
+	* Presentation and instruction (e.g. leading lectures, labs, and discussion sections, and holding office hours)
+	* Course administration (e.g. coordinating teaching assistants, grading assignments, maintaining grade books, assigning course grades, etc.)
+* Selected Courses
+	* Introduction to Statistics
+	* Psychological Statistics
+	* Research Methods in Psychology
+	* Advanced Psychological Statistics A, B, and C 
+	* Behavioral Neuroscience
+<br><br>
+
+### Adjunct Professor, Chapman University, Orange, CA
+**Sept 2013 - May 2014**
+
+* Taught "Critical Thinking" (i.e. effective evaluation of arguments and evidence leading to scientifically informed decisions) 
+* Provided constructive feedback as students learned to express their reasoning orally and in writing
+<br><br>
+
+### Teaching Assistant, Clarkson University, Potsdam NY
+**Jan 2009 - May 2009** 
+
+* Led weekly Calculus III (Multivariate Calculus) discussion sections to review examples of the topics covered in lecture 
+* Had a lot of fun

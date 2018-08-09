@@ -1,0 +1,14 @@
+---
+title: "Selected Education"
+output: html_document
+---
+
+---
+### PhD, Quantitative Psychology, University of California, Los Angeles
+* Psychology Department Fellowship, 2014
+* Graduate Summer Research Mentorship Award, 2011 
+* First-Year University Fellowship, 2009
+
+### BS, Mathematics, Clarkson University, Potsdam NY
+* Pi Mu Epsilon, National Mathematics Honor Society, 2008
+* Psi Chi, International Honor Society in Psychology, 2008 

@@ -1,0 +1,81 @@
+---
+title: "Data Science Experience"
+output: html_document
+---
+
+---
+
+### Data Scientist, System1, Venice CA
+**April 2017 - Present**
+
+* Build and maintain RPC and CTR models to maximize revenue per impression
+* Implemented a Bayesian Thompson Sampling Bandit to dynamically compare and 
+select algorithms on live traffic
+* These optimization products typically provide 14-18% lift per day (on a base revenue of 500-600K each day)
+* Tools and Tech: Python, R, Redshift, S3, EC2, Docker, RStudio, Jupyter
+<br><br>
+
+### Consultant, OnPrem Solution Partners, LLC, Los Angeles CA
+**Sept 2015 - March 2018**
+
+
+#### WB Technology Solutions, Data Analysis and Integration Support
+**Aug 2016 - Nov 2016**
+
+* Wrote Python scripts to normalize and match titles from distinct systems 
+allowing film/fan data to be linked with ticket sale data
+* Helped create, update and standardize data documentation and ERDs
+* Tools and Tech: Redshift, S3, ER/Studio, Python, Google Cloud Platform, 
+Apache Hive/Hadoop
+
+
+#### Disney, DELTA Application Reporting 
+**June 2016 - Aug 2016**
+
+* Built dashboards to provide insight into application performance leading 
+to faster bug detection and order completion
+* Tools and Tech: MySQL, Tableau, Bash
+
+#### NBCU Studio Operations ORBIT Billing Phase 1.5 
+**Oct 2015 - April 2016**
+
+* Automated data exploration and validation procedures using Python, R and 
+Dynamic SQL 
+* Performed data modeling and wrote reports for an interim reporting system
+* Tools and Tech: Python, CAErwin, DB2, Teradata, R, Batch Scripts
+<br><br>
+
+
+### Graduate Student and Researcher, University of California, Los Angeles, CA
+**June 2009 - March 2015**
+
+#### Completed the Degree of Doctor of Philosophy in Psychology
+**Jan 2013 - March 2015**
+
+* Developed the statistical theory and computational algorithms needed to address a known multivariate modeling issue
+* Analyzedtheperformanceofthetheory/algorithmsinsimulationsandappliedthemtorealdata
+* Presented results to a committee of statisticians and psychologists
+* Tools and Tech: R, EQS
+
+#### Graduate Student Research Mentorship Award Recipient 
+**June - Sept 2011**
+
+* Awarded funding to work on a machine learning problem in neuroimaging
+* Results determined which of several methods could most accurately estimate the number of independent neurological systems contributing to the (highly noisy) fMRI signal
+* Tools and Tech: Matlab
+
+#### Graduate Research Methods Project
+**June 2009 - Dec 2010**
+
+* Implemented and applied several heuristic optimizers (e.g. genetic algorithms, particle swarm optimizers, etc.) to select features and weights in a constrained linear modeling task
+* Results identified the best performing algorithms and circumstances in which the constrained models might be preferred over the usual unconstrained models
+* Tools and Tech: Matlab
+<br><br>
+
+
+#### Cognitive Neuroscience Research Assistant, Clarkson University, Potsdam, NY
+**Aug 2008 - May 2009**
+
+* Used neural networks to model event-related EEG data to study neurological processing of tactile stimuli
+* Tools and Tech: Matlab
+<br><br>
