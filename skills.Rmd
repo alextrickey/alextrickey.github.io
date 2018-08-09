@@ -19,7 +19,7 @@ suppressPackageStartupMessages(library(ggplot2))
 suppressPackageStartupMessages(library(lubridate))
 
 #Import Data
-skill_dates <- read.csv("plot_code/skill_dates.csv",
+skill_dates <- read.csv("skills_data/skill_dates.csv",
                         strip.white = TRUE,
                         colClasses = c("factor", "factor", "Date", "Date"),
                         comment.char = "#")
