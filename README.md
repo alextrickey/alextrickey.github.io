@@ -1,8 +1,9 @@
 # AlexTrickey.GitHub.IO
-This project contains the code/contents of my personal website.
+This repo contains the code/contents of my personal website.
 
 ## Usage
 Visit [alextrickey.com](http://alextrickey.com/) to see the site. 
 
-## Credits
-The CSS/HTML included here are based on a GitHub pages template. 
+## Resources
+http://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html
+https://monashbioinformaticsplatform.github.io/2017-11-16-open-science-training/topics/rmarkdown.html
