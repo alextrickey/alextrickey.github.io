@@ -10,7 +10,7 @@ margin-right: 20px" align="left">
 Alex is a seasoned Data Scientist with full-pipeline experience from data 
 wrangling to modeling to production. Currently, Alex works at System1, a 
 rapidly growing startup in the AdTech space, where she builds, maintains 
-and deploys machine learning algorithms to optimize Ad recommendations. 
+and deploys machine learning algorithms to optimize ad recommendations. 
 Previously, Alex worked in Data and Analytics consulting and obtained a 
 PhD in Quantitative Psychology. In the future, Alex hopes to continue to 
 broaden her Machine Learning and AI skill sets, use cool new tech and find 
