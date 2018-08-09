@@ -1,8 +1,24 @@
-name: "AlexTrickey.com"
+name: "Alex Trickey"
+output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Alex Trickey"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Skills"
+      href: skills.html
+    - text: "Experience"
+      href: experience.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Education"
+      href: education.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/alextrickey
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/alextrickey/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
